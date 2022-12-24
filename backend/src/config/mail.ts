@@ -13,8 +13,8 @@ export default {
 
   defaults: {
     from: {
-      email: 'wallyson.galvao@gmail.com',
-      name: 'Wallyson Galvão',
+      email: '201700045@uesb.edu.br',
+      name: 'Luiz Arruda',
     },
   },
 } as IMailConfig;
